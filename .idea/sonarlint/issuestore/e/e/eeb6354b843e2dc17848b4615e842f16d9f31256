@@ -1,0 +1,12 @@
+
+{
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8ÌÄÉ—‚1
+‚
+java:S1319"eThe type of "sendData" should be an interface such as "Map" rather than the implementation "HashMap".(…©æç8ÌÄÉ—‚1
+g
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ï”¸8ŞÄÉ—‚1
+X	java:S125!"<This block of commented-out lines of code should be removed.(Õçáå8àÄÉ—‚1
+e
+java:S4488/"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ù€ë8ÀïÊ—‚1
+S
+java:S1128"7Remove this unused import 'lombok.extern.log4j.Log4j2'.(ÅP8ÆïÊ—‚1

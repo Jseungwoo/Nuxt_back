@@ -1,0 +1,20 @@
+
+o
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ëõ¤
+v
+java:S4144Ñ"_Update this method so that its implementation is not identical to "modifyEmployee" on line 187.(Èè‡Ô
+^
+java:S44884"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ø™õÂ
+i
+java:S4042x"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ë“«øÿÿÿÿ
+8
+java:S1116‡"Remove this empty statement.(ôŸìúÿÿÿÿ
+d
+java:S4488¤"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(›ê„øÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(‚“ğÄúÿÿÿÿ
+R	java:S125¼"<This block of commented-out lines of code should be removed.(¯î‰
+R	java:S125Â"<This block of commented-out lines of code should be removed.(Ìü®ê
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(¯î‰
+R	java:S125Ø"<This block of commented-out lines of code should be removed.(Ìü®ê
+b
+java:S1128"GRemove this unused import 'kr.co.seoulit.erp.account.slip.to.SlipBean'.(‘©ĞÍúÿÿÿÿ

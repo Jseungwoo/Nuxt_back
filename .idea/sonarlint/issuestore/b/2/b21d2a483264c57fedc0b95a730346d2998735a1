@@ -1,0 +1,34 @@
+
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¹‡õéùÿÿÿÿ
+„
+java:S1319"nThe type of "baseSalaryList" should be an interface such as "List" rather than the implementation "ArrayList".(±çÑÑ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‹• üÿÿÿÿ
+Œ
+java:S1319"qThe type of "baseDeductionList" should be an interface such as "List" rather than the implementation "ArrayList".(­€å¤üÿÿÿÿ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Í‚ŒÆûÿÿÿÿ
+„
+java:S1319"nThe type of "baseExtSalList" should be an interface such as "List" rather than the implementation "ArrayList".(Éœïª
+ˆ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(§ŠæŒúÿÿÿÿ
+…
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ó´°
+ˆ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¶¬úÅûÿÿÿÿ
+…
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(…¿¾;
+‹
+java:S1319 "pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ûœôéşÿÿÿÿ
+‹
+java:S1319!"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(›öšùÿÿÿÿ
+†
+java:S1319$"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Õ˜´ı
+†
+java:S1319&"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ƒîøæ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¿¾;
+]
+java:S1128";Remove this unused import 'kr.co.seoulit.erp.hr.salary.to'.(ßÎ¨åşÿÿÿÿ8ÉôÑ¢1
+q
+java:S1128"ORemove this unused import 'kr.co.seoulit.erp.hr.salary.to.MonthSalarySelectTO'.(æÕÅşÿÿÿÿ8ÉôÑ¢1

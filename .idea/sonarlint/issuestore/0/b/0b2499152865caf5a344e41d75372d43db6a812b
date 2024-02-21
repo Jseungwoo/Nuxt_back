@@ -1,0 +1,29 @@
+
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Í©–›ÿÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Åâö»
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¼ú—ð
+‹
+java:S1319 "pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(­‚¼Žýÿÿÿÿ
+‹
+java:S1319""pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(íÈË™ùÿÿÿÿ
+‹
+java:S1319$"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ªÿ£¥ûÿÿÿÿ
+{
+java:S1319$"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(ªÿ£¥ûÿÿÿÿ
+v
+java:S1319("`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(ÕÅÏë
+†
+java:S1319*"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(—¬»ø
+…
+java:S1319,"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ý„íe
+v
+java:S1319/"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(©©÷ï
+†
+java:S13191"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ùâö–
+V	java:S125"<This block of commented-out lines of code should be removed.(¿‰‰¢üÿÿÿÿ
+E
+java:S1128
+"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ

@@ -1,0 +1,30 @@
+
+{
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8‡¹’ë1
+{
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8‡¹’ë1
+{
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8‡¹’ë1
+{
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8ˆ¹’ë1
+{
+java:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8ˆ¹’ë1
+|
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ8ˆ¹’ë1
+‹
+java:S1319ˆ"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ßÈç8‰¹’ë1
+q
+java:S1845k"TRename method "emplist" to prevent any misunderstanding/clash with method "empList".(õ˜ËÕ8Ã¹’ë1
+v
+java:S1845w"TRename method "emplist" to prevent any misunderstanding/clash with method "empList".(–øÈ…ÿÿÿÿÿ8Ã¹’ë1
+j
+java:S4488:"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(æñÎ¬ıÿÿÿÿ8Î¹’ë1
+j
+java:S4488v"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(öüßíøÿÿÿÿ8İ¹’ë1
+k
+java:S4488‡"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ö¢–‚ùÿÿÿÿ8à¹’ë1
+^	java:S125"<This block of commented-out lines of code should be removed.(  Ì›ÿÿÿÿÿ8å¹’ë1
+P
+java:S1135"2Complete the task associated to this TODO comment.(‹î³Ú8å¹’ë1
+U
+java:S1135°"2Complete the task associated to this TODO comment.(®âÎ ÿÿÿÿÿ8å¹’ë1

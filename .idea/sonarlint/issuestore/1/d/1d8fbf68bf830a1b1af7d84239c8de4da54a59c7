@@ -1,0 +1,17 @@
+
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¾§®‘
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(äšÐþøÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ú¹‘Æ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‹áÀÍúÿÿÿÿ
+‹
+java:S1319*"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(–°ë‡ýÿÿÿÿ
+{
+java:S1319*"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(–°ë‡ýÿÿÿÿ
+†
+java:S1319,"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ãåì­
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ

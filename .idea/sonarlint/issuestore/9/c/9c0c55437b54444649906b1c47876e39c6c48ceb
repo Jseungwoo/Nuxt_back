@@ -1,0 +1,7 @@
+
+Š
+java:S1319k"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(„Î¦ƒ8Ú³Ê—1
+k
+java:S4488j"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(â¦ƒ–8û´Ê—1
+c
+java:S1128	"ARemove this unused import 'kr.co.seoulit.erp.hr.affair.to.EmpTO'.(³Àöæùÿÿÿÿ8„µÊ—1

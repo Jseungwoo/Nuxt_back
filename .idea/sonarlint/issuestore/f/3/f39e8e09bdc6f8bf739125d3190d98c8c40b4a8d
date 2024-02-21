@@ -1,0 +1,31 @@
+
+n	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î²©é8ÆÈÑ¢1
+
+java:S1488C"bImmediately return this expression instead of assigning it to the temporary variable "yearSalary".(•ÿˆ˜8ÇÈÑ¢1
+†
+java:S1488L"iImmediately return this expression instead of assigning it to the temporary variable "baseDeductionList".(‰Ï¸Ä8ÇÈÑ¢1
+ƒ
+java:S1488b"fImmediately return this expression instead of assigning it to the temporary variable "baseSalaryList".(¹ÿÿì8ÈÈÑ¢1
+‰
+java:S1488"fImmediately return this expression instead of assigning it to the temporary variable "baseExtSalList".(ŠŸ”€üÿÿÿÿ8ÈÈÑ¢1
+„
+java:S1488®"fImmediately return this expression instead of assigning it to the temporary variable "baseExtSalList".(âá¦8ÈÈÑ¢1
+„
+java:S1488´"fImmediately return this expression instead of assigning it to the temporary variable "BaseInsureList".(î²©é8ÈÈÑ¢1
+†
+java:S1488º"hImmediately return this expression instead of assigning it to the temporary variable "severancePayList".(œÏÌŒ8ÈÈÑ¢1
+y
+java:S1488Á"[Immediately return this expression instead of assigning it to the temporary variable "all".(æ×Ïğ8ÈÈÑ¢1
+„
+java:S1488Ç"fImmediately return this expression instead of assigning it to the temporary variable "allMonthSalary".(é‰àú8ÈÈÑ¢1
+Z
+java:S4973„"<Strings and Boxed types should be compared using "equals()".(ÈôÒÇ8ÉÈÑ¢1
+Z
+java:S4973„"<Strings and Boxed types should be compared using "equals()".(ÈôÒÇ8ÊÈÑ¢1
+C	java:S131S""Add a default case to this switch.(Åã’¦ùÿÿÿÿ8¤ËÑ¢1
+o
+java:S3776g"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(“Ôñ8§ËÑ¢1
+]
+java:S1128";Remove this unused import 'kr.co.seoulit.erp.hr.salary.to'.(ßÎ¨åşÿÿÿÿ8»ËÑ¢1
+q
+java:S1128"ORemove this unused import 'kr.co.seoulit.erp.hr.salary.to.MonthSalarySelectTO'.(æÕÅşÿÿÿÿ8»ËÑ¢1
